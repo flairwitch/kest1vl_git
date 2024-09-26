@@ -4,4 +4,4 @@
 -Item 1
 -Item2
 -item
-** boldd tessti** ,skráletrað*.
+** boldd tessti** ,*skráletrað*.
